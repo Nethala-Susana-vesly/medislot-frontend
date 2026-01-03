@@ -1,0 +1,5 @@
+{
+  "name": "MediSlot - Hospital Appointment Scheduling",
+  "description": "A modern healthcare platform for seamless hospital appointment booking, featuring QR code check-ins and smart slot management to eliminate waiting room times.",
+  "requestFramePermissions": []
+}
